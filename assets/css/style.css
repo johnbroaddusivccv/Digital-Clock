@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Contrail+One');
+
+#clock {
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: greenyellow;
+    font-family: 'contrail One', sans-serif;
+    font-size: 3em;
+}
